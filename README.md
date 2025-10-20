@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Janista Kumwan</h1>
-<h3 align="center">I’m a passionate fourth-year Computer Engineering student with a strong interest in programming and web development. Through hands-on experience in multiple web projects, I’ve developed various technical skills as a frontend developer, working with modern tools and frameworks to build a user-friendly interfaces. As part of a 6-month cooperative education program, I worked as a Software Engineer Intern, where I not only enhanced my technical abilities but also improved my communication and collaboration skills—key qualities that enable me to work effectively in team-based and real-world development environments.</h3>
+<h1 align="center" style="border-bottom: 1rem solid white;">Hi 👋, I'm Janista Kumwan</h1>
+<p style="text-align: start;">I’m a passionate fourth-year Computer Engineering student with a strong interest in programming and web development. Through hands-on experience in multiple web projects, I’ve developed various technical skills as a frontend developer, working with modern tools and frameworks to build a user-friendly interfaces. </p>
+<p align="start">As part of a 6-month cooperative education program, I worked as a Software Engineer Intern, where I not only enhanced my technical abilities but also improved my communication and collaboration skills—key qualities that enable me to work effectively in team-based and real-world development environments.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janipang" alt="janipang" /></a> </p>
+<p style="text-align: start;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janipang" alt="janipang" /></a> </p>
 
 - 🔭 I’m currently internship at **SCB Tech X as a Software Engineer**
 
