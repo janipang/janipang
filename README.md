@@ -6,17 +6,6 @@
   As part of a 6-month cooperative education program, I worked as a Software Engineer Intern, where I not only enhanced my technical abilities but also improved my communication and collaboration skills—key qualities that enable me to work effectively in team-based and real-world development environments.
 </p>
 
-<p style="text-align: start; border: 3px solid #446067; border-radius: 8px; padding: 6px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=janipang" alt="janipang" />
-  </a> 
-</p>
-
-- <p>🔭 I’m currently internship at 
-    <b style="background-color: #f9448a; color:#141321;"> SCB Tech X as a Software Engineer
-    </b>
-</p>
-
 - <p>🌱 I’m currently learning 
     <b style="background-color: #f9448a; color:#141321;"> Node.js for building backend services
     </b>
